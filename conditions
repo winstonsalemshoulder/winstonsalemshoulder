@@ -1,0 +1,167 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Conditions We Treat | Winston Salem Shoulder</title>
+  <meta name="description" content="Conditions treated at Winston Salem Shoulder: rotator cuff tears, labral tears, instability, frozen shoulder, biceps pain, and shoulder arthritis." />
+  <style>
+    :root{--bg:#0b1220;--card:#101a33;--text:#eaf0ff;--muted:#b9c6ea;--accent:#66a6ff;--accent2:#7cf3c7;--border:rgba(255,255,255,.12);--shadow:0 12px 40px rgba(0,0,0,.35);--radius:18px;--max:1100px;--font:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:var(--font);color:var(--text);background:radial-gradient(900px 500px at 20% 10%, rgba(102,166,255,.18), transparent 60%),radial-gradient(900px 500px at 80% 30%, rgba(124,243,199,.12), transparent 60%),linear-gradient(180deg,#070b14 0%,#0b1220 40%,#070b14 100%);}
+    a{color:inherit;text-decoration:none}
+    .container{max-width:var(--max);margin:0 auto;padding:0 20px;}
+    .nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(10px);background:rgba(7,11,20,.65);border-bottom:1px solid var(--border);}
+    .nav-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 0;gap:16px;}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px;}
+    .logo{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));box-shadow:0 10px 24px rgba(102,166,255,.25);flex:0 0 auto;}
+    .brand small{display:block;font-weight:700;color:var(--muted);margin-top:2px}
+    .nav-links{display:flex;gap:18px;align-items:center;flex-wrap:wrap;}
+    .nav-links a{color:var(--muted);font-weight:700;font-size:14px}
+    .nav-links a:hover{color:var(--text)}
+    .nav-links a.active{color:var(--text)}
+    .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 14px;border-radius:999px;border:1px solid var(--border);font-weight:800;gap:8px;cursor:pointer;background:rgba(255,255,255,.04);color:var(--text);white-space:nowrap;transition:transform .08s ease,border-color .2s ease;}
+    .btn:hover{transform:translateY(-1px);border-color:rgba(255,255,255,.22)}
+    .btn.primary{background:linear-gradient(135deg,rgba(102,166,255,.95),rgba(124,243,199,.85));color:#07101e;border:none;box-shadow:0 12px 34px rgba(102,166,255,.22);}
+    .btn.primary:hover{transform:translateY(-1px) scale(1.01)}
+    @media (max-width:900px){.nav-links{display:none}}
+    .card{background:rgba(16,26,51,.75);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);}
+    .pad{padding:18px}
+    .hero{padding:44px 0 18px}
+    h1{margin:0 0 10px;font-size:clamp(30px,4vw,44px);letter-spacing:-.5px}
+    .lead{color:var(--muted);line-height:1.6;max-width:70ch;margin:0}
+    .section{padding:18px 0}
+    .section h2{margin:0 0 12px;font-size:24px;letter-spacing:-.2px}
+    .grid2{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+    @media (max-width:900px){.grid2{grid-template-columns:1fr}}
+    .kicker{font-size:13px;color:var(--muted);font-weight:900;letter-spacing:.18px;text-transform:uppercase}
+    .muted{color:var(--muted);line-height:1.6}
+    .hr{height:1px;background:var(--border);margin:16px 0}
+    ul{margin:10px 0 0;padding-left:18px;color:var(--muted);line-height:1.6}
+    li{margin:6px 0}
+    .footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
+    .small{font-size:12px;color:var(--muted)}
+  </style>
+</head>
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="Home">
+        <div class="logo" aria-hidden="true"></div>
+        <div>Winston Salem Shoulder<small>Shoulder • Sports Medicine • Arthritis</small></div>
+      </a>
+
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a class="active" href="conditions.html">Conditions</a>
+        <a href="treatments.html">Treatments</a>
+        <a href="meet-dr-winter.html">Meet Dr. Winter</a>
+      </nav>
+
+      <div style="display:flex; gap:10px; align-items:center;">
+        <a class="btn" href="tel:+13367681270">Call 336-768-1270</a>
+        <a class="btn primary" href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">Request Appointment</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container">
+        <div class="card pad">
+          <span class="kicker">Conditions</span>
+          <h1>Shoulder conditions we treat</h1>
+          <p class="lead">
+            We treat the full spectrum of shoulder pain, injury, and arthritis — with a focus on clear diagnosis,
+            education, and a plan that fits your goals.
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container grid2">
+        <div class="card pad">
+          <h2>Rotator cuff</h2>
+          <p class="muted">Tendinopathy, partial tears, full-thickness tears, traumatic tears, and chronic tears.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>Pain with lifting or reaching overhead</li>
+            <li>Weakness, night pain, or loss of motion</li>
+            <li>Non-surgical care vs repair discussion when appropriate</li>
+          </ul>
+        </div>
+
+        <div class="card pad">
+          <h2>Labrum & instability</h2>
+          <p class="muted">Dislocations, recurrent instability, SLAP tears, Bankart lesions, and athlete shoulder.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>“Slipping” sensation or repeat dislocations</li>
+            <li>Pain/catching with throwing or lifting</li>
+            <li>Return-to-play planning and stabilization options</li>
+          </ul>
+        </div>
+
+        <div class="card pad">
+          <h2>Frozen shoulder</h2>
+          <p class="muted">Adhesive capsulitis causing stiffness and pain with daily activities and sleep.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>Progressive loss of range of motion</li>
+            <li>Night pain and difficulty reaching behind back</li>
+            <li>Structured rehab + targeted interventions when indicated</li>
+          </ul>
+        </div>
+
+        <div class="card pad">
+          <h2>Arthritis</h2>
+          <p class="muted">Glenohumeral arthritis, cuff tear arthropathy, and post-traumatic arthritis.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>Deep aching pain and stiffness</li>
+            <li>Grinding or loss of function</li>
+            <li>Non-surgical first; replacement consult when warranted</li>
+          </ul>
+        </div>
+
+        <div class="card pad">
+          <h2>Biceps / AC joint pain</h2>
+          <p class="muted">Biceps tendinopathy, SLAP-related biceps pain, and AC joint arthritis/sprain.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>Front-of-shoulder pain with lifting</li>
+            <li>Pain at top of shoulder with cross-body motion</li>
+            <li>Activity-specific treatment planning</li>
+          </ul>
+        </div>
+
+        <div class="card pad">
+          <h2>Second opinions</h2>
+          <p class="muted">Review of imaging and prior treatment plans with straightforward recommendations.</p>
+          <div class="hr"></div>
+          <ul>
+            <li>Clarify diagnosis and options</li>
+            <li>Discuss timing and expectations</li>
+            <li>Align plan with your goals and lifestyle</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="container">
+        <div class="hr"></div>
+        <p>© <span id="year"></span> Winston Salem Shoulder. All rights reserved.</p>
+        <p class="small">
+          170 Kimel Park Dr, Winston-Salem, NC • <a href="tel:+13367681270">336-768-1270</a> •
+          Appointments via phone or <a href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">orthocarolina.com</a>
+        </p>
+        <p class="small">Disclaimer: This website provides general information and does not constitute medical advice.</p>
+      </div>
+    </section>
+  </main>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
