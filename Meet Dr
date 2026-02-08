@@ -1,0 +1,161 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Meet Dr. Winter | Winston Salem Shoulder</title>
+  <meta name="description" content="Meet S. Bradley Winter, MD — Board-Certified Orthopedic Surgeon specializing in Sports Medicine and Shoulder Reconstruction in Winston-Salem, NC." />
+  <style>
+    :root{--bg:#0b1220;--card:#101a33;--text:#eaf0ff;--muted:#b9c6ea;--accent:#66a6ff;--accent2:#7cf3c7;--border:rgba(255,255,255,.12);--shadow:0 12px 40px rgba(0,0,0,.35);--radius:18px;--max:1100px;--font:ui-sans-serif,system-ui,-apple-system,Segoe UI,Roboto,Helvetica,Arial;}
+    *{box-sizing:border-box}
+    body{margin:0;font-family:var(--font);color:var(--text);background:radial-gradient(900px 500px at 20% 10%, rgba(102,166,255,.18), transparent 60%),radial-gradient(900px 500px at 80% 30%, rgba(124,243,199,.12), transparent 60%),linear-gradient(180deg,#070b14 0%,#0b1220 40%,#070b14 100%);}
+    a{color:inherit;text-decoration:none}
+    .container{max-width:var(--max);margin:0 auto;padding:0 20px;}
+    .nav{position:sticky;top:0;z-index:50;backdrop-filter:blur(10px);background:rgba(7,11,20,.65);border-bottom:1px solid var(--border);}
+    .nav-inner{display:flex;align-items:center;justify-content:space-between;padding:14px 0;gap:16px;}
+    .brand{display:flex;align-items:center;gap:10px;font-weight:800;letter-spacing:.2px;}
+    .logo{width:34px;height:34px;border-radius:10px;background:linear-gradient(135deg,var(--accent),var(--accent2));box-shadow:0 10px 24px rgba(102,166,255,.25);flex:0 0 auto;}
+    .brand small{display:block;font-weight:700;color:var(--muted);margin-top:2px}
+    .nav-links{display:flex;gap:18px;align-items:center;flex-wrap:wrap;}
+    .nav-links a{color:var(--muted);font-weight:700;font-size:14px}
+    .nav-links a:hover{color:var(--text)}
+    .nav-links a.active{color:var(--text)}
+    .btn{display:inline-flex;align-items:center;justify-content:center;padding:12px 14px;border-radius:999px;border:1px solid var(--border);font-weight:800;gap:8px;cursor:pointer;background:rgba(255,255,255,.04);color:var(--text);white-space:nowrap;transition:transform .08s ease,border-color .2s ease;}
+    .btn:hover{transform:translateY(-1px);border-color:rgba(255,255,255,.22)}
+    .btn.primary{background:linear-gradient(135deg,rgba(102,166,255,.95),rgba(124,243,199,.85));color:#07101e;border:none;box-shadow:0 12px 34px rgba(102,166,255,.22);}
+    .btn.primary:hover{transform:translateY(-1px) scale(1.01)}
+    @media (max-width:900px){.nav-links{display:none}}
+    .card{background:rgba(16,26,51,.75);border:1px solid var(--border);border-radius:var(--radius);box-shadow:var(--shadow);}
+    .pad{padding:18px}
+    .hero{padding:44px 0 18px}
+    .hero-grid{display:grid;grid-template-columns:1.1fr .9fr;gap:14px;align-items:stretch;}
+    @media (max-width:900px){.hero-grid{grid-template-columns:1fr}}
+    .pill{display:inline-flex;align-items:center;gap:8px;border:1px solid var(--border);color:var(--muted);padding:8px 12px;border-radius:999px;font-weight:900;font-size:13px;background:rgba(255,255,255,.03);}
+    h1{margin:14px 0 10px;font-size:clamp(30px,4vw,46px);letter-spacing:-.5px;line-height:1.1}
+    .lead{color:var(--muted);line-height:1.6;max-width:70ch;margin:0}
+    .kicker{font-size:13px;color:var(--muted);font-weight:900;letter-spacing:.18px;text-transform:uppercase}
+    .muted{color:var(--muted);line-height:1.6}
+    .hr{height:1px;background:var(--border);margin:16px 0}
+    .badge{display:inline-flex;padding:7px 10px;border-radius:999px;border:1px solid var(--border);background:rgba(255,255,255,.03);font-weight:850;font-size:12px;color:var(--muted);margin:6px 8px 0 0;}
+    .section{padding:18px 0}
+    .section h2{margin:0 0 12px;font-size:24px;letter-spacing:-.2px}
+    .split{display:grid;grid-template-columns:1fr 1fr;gap:14px;}
+    @media (max-width:900px){.split{grid-template-columns:1fr}}
+    ul{margin:10px 0 0;padding-left:18px;color:var(--muted);line-height:1.6}
+    li{margin:6px 0}
+    .footer{padding:26px 0 40px;color:var(--muted);font-size:13px}
+    .small{font-size:12px;color:var(--muted)}
+  </style>
+</head>
+<body>
+  <header class="nav">
+    <div class="container nav-inner">
+      <a class="brand" href="index.html" aria-label="Home">
+        <div class="logo" aria-hidden="true"></div>
+        <div>Winston Salem Shoulder<small>Shoulder • Sports Medicine • Arthritis</small></div>
+      </a>
+
+      <nav class="nav-links" aria-label="Primary">
+        <a href="index.html">Home</a>
+        <a href="conditions.html">Conditions</a>
+        <a href="treatments.html">Treatments</a>
+        <a class="active" href="meet-dr-winter.html">Meet Dr. Winter</a>
+      </nav>
+
+      <div style="display:flex; gap:10px; align-items:center;">
+        <a class="btn" href="tel:+13367681270">Call 336-768-1270</a>
+        <a class="btn primary" href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">Request Appointment</a>
+      </div>
+    </div>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="container hero-grid">
+        <div class="card pad">
+          <span class="pill">Board-Certified Orthopedic Surgeon</span>
+          <h1>S. Bradley Winter, MD</h1>
+          <p class="lead">
+            Dr. S. Bradley Winter is a board-certified orthopedic surgeon specializing in
+            <strong>sports medicine</strong> and <strong>shoulder reconstruction</strong>. He treats shoulder injuries
+            and arthritis with a clear plan, evidence-based options, and structured recovery guidance.
+          </p>
+
+          <div style="margin-top:8px;">
+            <span class="badge">Fellowship Trained</span>
+            <span class="badge">Shoulder Reconstruction</span>
+            <span class="badge">Sports Medicine</span>
+            <span class="badge">Second Opinions</span>
+          </div>
+
+          <div class="hr"></div>
+
+          <div style="display:flex; gap:12px; flex-wrap:wrap;">
+            <a class="btn primary" href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">Request Appointment</a>
+            <a class="btn" href="conditions.html">Conditions treated</a>
+          </div>
+
+          <p class="small" style="margin-top:12px;">
+            Appointments: Call <a href="tel:+13367681270">336-768-1270</a> or schedule online through
+            <a href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">orthocarolina.com</a>.
+          </p>
+        </div>
+
+        <aside class="card pad" aria-label="Office details">
+          <div class="kicker">Office</div>
+          <h2 style="margin:10px 0 6px; font-size:20px;">Winston Salem Shoulder</h2>
+          <p class="muted" style="margin:0;">
+            <strong>Phone:</strong> <a href="tel:+13367681270">336-768-1270</a><br />
+            <strong>Address:</strong> 170 Kimel Park Dr, Winston-Salem, NC
+          </p>
+          <div class="hr"></div>
+          <div class="kicker">Approach</div>
+          <p class="muted" style="margin:8px 0 0;">
+            Start with the least invasive option likely to succeed. If surgery is recommended,
+            you’ll receive a clear plan for pain control, rehab milestones, and return to activity.
+          </p>
+        </aside>
+      </div>
+    </section>
+
+    <section class="section">
+      <div class="container split">
+        <div class="card pad">
+          <h2>Education & training</h2>
+          <ul>
+            <li><strong>Undergraduate:</strong> Vanderbilt University</li>
+            <li><strong>Medical School:</strong> University of Texas Health Science Center at Houston</li>
+            <li><strong>Orthopedic Residency:</strong> Wake Forest University</li>
+            <li><strong>Fellowship:</strong> Sports Medicine & Shoulder Reconstruction, Steadman Hawkins Clinic of the Carolinas</li>
+          </ul>
+        </div>
+        <div class="card pad">
+          <h2>Clinical focus</h2>
+          <ul>
+            <li>Arthroscopic rotator cuff repair and complex tears</li>
+            <li>Shoulder instability (labral repair, stabilization)</li>
+            <li>Biceps and labral pathology</li>
+            <li>Frozen shoulder and complex shoulder pain</li>
+            <li>Shoulder arthritis and replacement consultation</li>
+            <li>Sports-related shoulder injuries and return-to-play planning</li>
+          </ul>
+        </div>
+      </div>
+    </section>
+
+    <section class="footer">
+      <div class="container">
+        <div class="hr"></div>
+        <p>© <span id="year"></span> Winston Salem Shoulder. All rights reserved.</p>
+        <p class="small">
+          170 Kimel Park Dr, Winston-Salem, NC • <a href="tel:+13367681270">336-768-1270</a> •
+          Appointments via phone or <a href="https://www.orthocarolina.com" target="_blank" rel="noreferrer">orthocarolina.com</a>
+        </p>
+        <p class="small">Disclaimer: This website provides general information and does not constitute medical advice.</p>
+      </div>
+    </section>
+  </main>
+
+  <script>document.getElementById('year').textContent = new Date().getFullYear();</script>
+</body>
+</html>
